@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90b96d96-e564-4457-97ac-ba56bf459b11" name="Changes" comment="abc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/BT1Set/HinhCau.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/BT1Set/HinhHoc3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/BT1Set/HinhLapPhuong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/BT1Set/HinhTru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/BT1Set/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/BT_Collection/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/BT_Collection/Diem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/BT_Collection/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/BT_Collection/MonHoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/BT_Collection/SinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Ex1_collecttion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/SetExample/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/SetExample/SetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/SetExample/SetExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Student.java" afterDir="false" />
+    <list default="true" id="90b96d96-e564-4457-97ac-ba56bf459b11" name="Changes" comment="Day2_Java2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/QueueExample/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/QueueExample/QueueExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,11 +66,19 @@
       <option name="project" value="LOCAL" />
       <updated>1678324825178</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day2_Java2">
+      <created>1678440022134</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678440022134</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="abc" />
-    <option name="LAST_COMMIT_MESSAGE" value="abc" />
+    <MESSAGE value="Day2_Java2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day2_Java2" />
   </component>
 </project>
