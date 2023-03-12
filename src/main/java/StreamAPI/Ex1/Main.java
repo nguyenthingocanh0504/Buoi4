@@ -66,5 +66,21 @@ public class Main {
         System.out.println("allMatch: "+list.stream().allMatch(p));
         System.out.println("anyMatch: "+list.stream().anyMatch(p));
         System.out.println("noneMatch: "+list.stream().noneMatch(p));
+
+        //Stream.findAny() and stream.findFirst()
+        //findAny(): tra ve 1 phan tu bat ky cua stream
+        //findFirst(): tra ve phan tu dau tien cua stream
+        List<String> list1=Arrays.asList("S","A","N");
+        String any=list1.stream().findAny().get();
+        System.out.println("FindAny: "+any);
+        String first = list1.stream().findFirst().get();
+        System.out.println("FindFirst: "+ first);
+
+        //stream.distince
+        List<Integer> list2 = Arrays.asList(2,3,6,6,7,4,3);
+        System.out.println("\nCac phan tu khong trung lap la: ");
+        list2.stream().distinct().forEach(n-> System.out.print(n+" "));
+
+
     }
 }
